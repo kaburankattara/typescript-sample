@@ -1,4 +1,4 @@
-package com.sample.typescript.com.sample.typescript;
+package com.sample.typescript;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

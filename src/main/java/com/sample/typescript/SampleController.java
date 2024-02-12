@@ -1,4 +1,4 @@
-package com.sample.typescript.com.sample.typescript;
+package com.sample.typescript;
 
 import org.springframework.stereotype.Controller;
 
